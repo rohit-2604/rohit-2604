@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-🔭 I'm currently working as an **SDE-1** at IEM, building full-stack & backend systems <br/>
+🔭 I'm currently working as an **SDE-1** at IEM full-stack & backend systems <br/>
 🧠 Full-stack + AI-leaning engineer — shipping production apps and wiring LLM APIs into real products <br/>
 🌐 React, Node.js, Express, PostgreSQL, MySQL, Prisma, Supabase — with a growing focus on DevOps & infra <br/>
 ⚙️ Into Docker, Kubernetes, CI/CD, and AWS — learning to ship things, not just build them <br/>
