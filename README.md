@@ -1,10 +1,11 @@
 ## 💫 About Me
 
-🔭 I’m currently working as an **SDE Intern**  
-🌱 Actively learning and building cool things with code  
-⚡ Passionate about solving real-world problems through technology  
-💡 Always exploring new tech, tools, and ideas  
-🚀 On a mission to grow as a developer and make an impact!
+🔭 I'm currently working as an **SDE-1** at IEM full-stack & backend systems for institutional platforms
+🌐 Full-stack dev — React, Node.js, Express, PostgreSQL, MySQL, Prisma — with a growing focus on DevOps & infra
+⚙️ Into Docker, Kubernetes, CI/CD, and AWS — learning to ship things, not just build them
+📡 Also building real-time/IoT systems — MQTT, Socket.IO, Flask — for high-throughput data pipelines
+💡 Always exploring new tools, architectures, and ways to make systems more reliable
+🚀 On a mission to grow as an engineer who owns problems end-to-end — not just one layer of the stack
 
 
 
