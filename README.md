@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-🔭 I'm currently working as an **SDE-1** at IEM full-stack & backend systems for institutional platforms <br/>
+🔭 I'm currently working as an **SDE-1** at IEM full-stack & backend systems <br/>
 🌐 Full-stack dev — React, Node.js, Express, PostgreSQL, MySQL, Prisma, Supabase — with a growing focus on DevOps & infra <br/>
 ⚙️ Into Docker, Kubernetes, CI/CD, and AWS — learning to ship things, not just build them <br/>
 📡 Also building real-time/IoT systems — MQTT, Socket.IO, Flask — for high-throughput data pipelines <br/>
